@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+body {
+ 	text-align: center;
+  	background-image: url("main_tree.jpg");
+  	background-size: cover;
+  	font-family: Helvetica;
+}
+
+hr {
+  	width: 200px;
+}
+
+p {
+ 	font-size: 15px;
+ 	font-weight: bold;
+}
+
+ul	{
+	font-weight: bold;
+  	list-style-type: none;
+}
+
+#slogan { 
+	font-style: italic;
+
+}
